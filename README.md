@@ -12,6 +12,7 @@ Clone this project and launch the index.html file :)
 Shoutout to Adobe Illustrator
 GitHub
 Visual Studio Code
+Inpsired by Pizza 
 
 ### License
 Made by meeee
