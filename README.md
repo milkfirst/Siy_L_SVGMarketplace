@@ -4,7 +4,7 @@
 Any web browser (I'm pretty sure!)
 
 ### Usage
-Use my <a href="https:    " rel="nofollow">GitHub Pages</a> link
+Use my <a href="https://github.com/milkfirst/Siy_L_SVGMarketplace.git" rel="nofollow">GitHub Pages</a> link
 
 Clone this project and launch the index.html file :)
 
