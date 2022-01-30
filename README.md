@@ -1,5 +1,4 @@
 <h1> LiL's little SVG store <h1>
-
 ### Requirements
 Any web browser (I'm pretty sure!)
 
